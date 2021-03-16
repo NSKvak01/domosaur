@@ -9,7 +9,7 @@ dino2.style.display = "none";
 dino1.style.width = '324px'
 
 function backgroundToOrange() {
-    messWithMe2.style.backgroundColor = 'orange'
+    messWithMe1.style.backgroundColor = 'orange'
 }
 
 messWithMe2.addEventListener ('click', backgroundToOrange)
